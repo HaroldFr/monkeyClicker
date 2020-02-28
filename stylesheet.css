@@ -1,0 +1,18 @@
+h1 {
+	text-align: center;
+}
+
+img {
+	width: 250px;
+	display: block; 
+	margin: auto;
+}
+
+
+.center {
+	text-align: center;
+}
+
+.table {
+	margin-top: 40px;
+}
